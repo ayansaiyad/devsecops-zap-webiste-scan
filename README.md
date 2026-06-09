@@ -14,7 +14,7 @@ This repository documents a real-world **DAST (Dynamic Application Security Test
 
 As part of my DevSecOps learning journey, I wanted to go beyond theory and test an actual live web application for security vulnerabilities — the same way security engineers do in real organizations.
 
-> **Target:** Personal Portfolio — [https://ayansaiyad.vercel.app](https://ayansaiyad.vercel.app)  
+> **Target:** Personal Portfolio — <Website-Url>  
 > **Tool:** OWASP ZAP 2.17.0 by Checkmarx  
 > **Scan Type:** DAST (Dynamic Application Security Testing)  
 > **Date:** June 2026
